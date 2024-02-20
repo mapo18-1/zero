@@ -1,4 +1,4 @@
-package com.example.Zero.entity.member;
+package fisa.edu.zero.member;
 
 import java.sql.Date;
 

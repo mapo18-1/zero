@@ -1,10 +1,9 @@
-package com.example.Zero.entity.post;
+package fisa.edu.zero.post;
 
 import java.sql.Clob;
 import java.sql.Date;
 
-import com.example.Zero.entity.member.Member;
-
+import fisa.edu.zero.member.Member;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
